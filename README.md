@@ -1,9 +1,9 @@
-# Alien bingo
+# Bingoaliens
 
 ## Features
 
 The repo contains a simple implementation to show a loading state with a lottie animation,
-and present a webview displaying the `aliens bingo` website.
+and present a webview displaying the `bingoaliens` website.
 On completion of loading, a dialog is presented to the user to check if they want to receive sms.
 
 #### Preview
