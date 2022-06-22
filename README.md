@@ -8,9 +8,7 @@ On completion of loading, a dialog is presented to the user to check if they wan
 
 #### Preview
 
-<video width="320" height="240" controls>
-  <source src="aliensbingo.mp4" type="video/mp4">
-</video>
+See preview in `./aliensbingo.mp4`
 
 ## Running
 
